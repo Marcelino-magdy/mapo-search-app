@@ -1,14 +1,24 @@
-# Expo Router Example
+# MAPO search App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Open [`Project GitHub link`](https://github.com/Marcelino-magdy/mapo-search-app.git) to view the source code behind my application backend inside files in the `app/` directory.
 
-## 🚀 How to use
+## file Names:
+
+- `app/bfs.js` for Breadth-first Search algorithm
+- `app/ucs.js`for Uniform-cost Search algorithm
+- `app/dfs.js`for Depth-first Search algorithm
+- `app/dls.js`for Depth-Limited Search algorithm
+- `app/ids.js`for Iterative-deepening dfs Search algorithm
+- `app/gbf.js`for Greedy-best-first Search algorithm
+- `app/astar.js`for A\* Search algorithm
+
+## 🚀 Git Hub Repo Link
 
 ```sh
-npx create-expo-app -e with-router
+    https://github.com/Marcelino-magdy/mapo-search-app.git
 ```
 
-## 📝 Notes
+## 📝 By:
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+- `Marcelino magdy habil andraos`
+- ID: `200013235`
